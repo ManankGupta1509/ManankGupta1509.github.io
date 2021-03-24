@@ -1,0 +1,13 @@
+body{
+    font-family: Calibri;
+    background-color:darkorange;
+}
+
+#main{
+    display: flex;
+  justify-content: center;
+}
+#me{
+    display: flex;
+  justify-content: center;
+}
